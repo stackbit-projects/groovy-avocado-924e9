@@ -57,7 +57,7 @@ sections:
     title: 나는 디자인만 한다
     subtitle: Features Section Example
     features:
-      - title: The Big Title For the Feature
+      - title: 디자이너의 가장 큰 고민은 수량에 따른 가격 입니다
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
