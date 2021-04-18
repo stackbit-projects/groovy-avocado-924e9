@@ -91,7 +91,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: 다음 세대를 위한 디자인을 추구합니다
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+        subtitle: 연간 9200만톤의 의류 폐기물
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
