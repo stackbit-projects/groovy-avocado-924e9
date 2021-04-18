@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Popster
-    subtitle: Optional hero section subtitle
+    subtitle: Proceed fosdifjsodifj
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
