@@ -10,7 +10,7 @@ sections:
       - label: 디자이너
         url: /pricing
         style: primary
-      - label: 생산자
+      - label: 공장
         url: /features
         style: secondary
     image: images/classic/hero.png
