@@ -90,7 +90,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-      - title: 다음 세대를 위한 생산을 추구합니다
+      - title: 다음 세대를 위한 생산을 고민합니다
         subtitle: '연간 9,200만톤의 의류 폐기물'
         content: "의류 산업이 발생시키는 폐기물은 연간\_9,200만 톤이 넘습니다.\_\n버려지는 샘플의 수를 최소화 하기 위해 팝스터는 가상의 샘플로 대체합니다\n\n또한 리사이클링, 업사이클링 원 부자재 사용으로 지속가능한 패션을 지향합니다\n"
         actions:
