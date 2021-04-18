@@ -76,10 +76,9 @@ sections:
         media_position: right
         media_width: fifty
       - title: 간단했나요? 여러분의 작업지시서?
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          간략한 작업지시서가 아니면, 공장과의 의사소통이 어렵습니다. 팝스터의 작업지시서는 사진들로 쉽고 빠르게 만들어 원하는 봉제
+          컨스트럭션및 디자인 의도를 공장에 정확시 전달할수 있습니다.
         actions:
           - label: Learn More
             url: /style-guide
