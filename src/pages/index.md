@@ -58,7 +58,7 @@ sections:
     subtitle: Features Section Example
     features:
       - title: 디자이너의 가장 큰 고민은 수량에 따른 가격 입니다
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: '"제작 의뢰를 하고 싶어도 수량이 적어 받아주는 공장이 없어요"'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
