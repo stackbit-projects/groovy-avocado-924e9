@@ -7,7 +7,7 @@ sections:
     content: |
       #### LET'S GET STARTED TO MAKE YOUR OWN THINGS WITH POPSTER!
     actions:
-      - label: Try Free
+      - label: 디자이너
         url: /pricing
         style: primary
       - label: Learn More
