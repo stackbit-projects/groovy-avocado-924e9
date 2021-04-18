@@ -59,10 +59,11 @@ sections:
     features:
       - title: 디자이너의 가장 큰 고민은 수량에 따른 가격 입니다
         subtitle: '"제작 의뢰를 하고 싶어도 수량이 적어 받아주는 공장이 없어요"'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          팝스터는 의류 및 악세사리 디자인 크라우드 펀딩을 통해 최소 오더 수량 (MOQ) 에 미치지 못해 판매 시도조차 하지 못했던
+          기존의 의류 제조 방식을 벗어나 원하는 디자인의 기획과 생산후 납품 까지 도와드립니다. 의류 제조 무역업에서 15여년 가먼트
+          테크니컬 디자이너로 근무한 팝스터 대표는 여러분의 디자인을 구현시킬 최고의 모델리스트임을 자부하며, 국내외 여러 공장및
+          샘플실의 데이터 베이스를 바탕으로 디자이너가 원하는 제품의 퀄리티 보장과 납기까지 관리합니다
         actions:
           - label: Learn More
             url: /style-guide
