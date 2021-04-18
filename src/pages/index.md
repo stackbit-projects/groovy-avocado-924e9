@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: POPSTER
-    subtitle: Proceed fosdifjsodifj
+    subtitle: PROCEED YOUR OWN PRODUCTS
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
