@@ -92,10 +92,7 @@ sections:
         media_width: fifty
       - title: 다음 세대를 위한 디자인을 추구합니다
         subtitle: 연간 9200만톤의 의류 폐기물
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: "의류 산업이 발생시키는 폐기물은 연간\_9,200만 톤이 넘습니다.\_\n다음 세대를 위해 팝스터는 버려지는 샘플의 수를 최소화 하기 위해 가상의 샘플로 대체합니다\n\n또한 리사이클링, 업사이클링 원 부자재 사용으로 지속가능한 패션을 지향합니다\n\n"
         actions:
           - label: Learn More
             url: /style-guide
