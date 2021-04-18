@@ -26,7 +26,7 @@ sections:
     subtitle: Grid Section Example
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: images/증명사진.jpg
         image_alt: Contentful logo
         image_align: center
       - image: images/logo-2.svg
