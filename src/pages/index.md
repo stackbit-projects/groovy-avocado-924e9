@@ -4,9 +4,8 @@ sections:
   - type: hero_section
     title: POPSTER
     subtitle: PROCEED YOUR OWN PRODUCTS
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      #### LET'S GET STARTED TO MAKE YOUR OWN THINGS WITH POPSTER!
     actions:
       - label: Try Free
         url: /pricing
