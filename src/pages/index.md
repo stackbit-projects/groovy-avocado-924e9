@@ -5,7 +5,7 @@ sections:
     title: POPSTER
     subtitle: PROCEED YOUR OWN PRODUCTS
     content: |
-      > 디자이너는 디자인에만 집중하세요 나머지는 팝스터가 도와드립니다
+      디자이너는 디자인에만 집중하세요 나머지는 팝스터가 도와드립니다
     actions:
       - label: 디자이너
         url: /pricing
