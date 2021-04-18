@@ -54,7 +54,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
-    title: 나는 디자인만 한다
+    title: 디자인 에만 집중하세요
     subtitle: Features Section Example
     features:
       - title: 디자이너의 가장 큰 고민은 수량에 따른 가격 입니다
